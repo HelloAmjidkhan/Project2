@@ -1,0 +1,95 @@
+.logo-img {
+    width: 150px;
+}
+#nav-text{
+    font-size: 20px;
+}
+.navbar {
+    background-color: #1F2235;
+}
+#main-container{
+    background-color: #1F2235;
+}
+#main-text {
+    margin-top: 300px;
+    font-family: poppins;   
+    font-size: 70px;
+    font-weight: bold;
+}
+#main-paragraph {
+    font-size: 30px;
+    color: #ede4e4;
+}
+#main-img {
+    margin-top: 100px;
+    width: 450px;
+} 
+#services {
+    font-size: 60px;
+    font-family: poppins;
+    font-weight: bold;
+}
+#main-services {
+    background-color: #1F2235;
+}
+#ser-paragraph {
+    font-size: 20px;
+}
+#git-img{
+    width: 55px;
+}
+#main-card {
+    background-color: #23263A;
+    width: '18rem';
+    height: 300px;
+}
+#about-container {
+    background-color: #1F2235;
+}
+#about-text {
+    font-size: 30px;
+    font-family: poppins;
+    font-weight: bold;
+    margin-top: 60px;
+}
+#about-pa{
+    float: left;
+    font-family: poppins;
+    font-size: 20px;
+    color: #ede4e4;
+}
+#skill-container{
+    background-color: #1F2235;
+}
+#skill-heading {
+    margin-top: 100px;
+    font-family: poppins;   
+    font-size: 70px;
+    font-weight: bold;
+}
+#progress-bar {
+    margin-top: 150px;
+}
+#protfolio-img {
+    width: 350px;
+}
+#protfolio-container {
+    background-color: #1F2235;
+}
+#contact-container {
+    background-color: #1F2235;
+}
+#cont-crd{
+    background-color: #23263A;
+    width: '18rem';
+    height: 180px;
+}
+#form {
+    background-color: #23263A;
+}
+#footer-container {
+    background-color: #1F2235;
+}
+#footer-icon {
+    width: 70px;
+}
