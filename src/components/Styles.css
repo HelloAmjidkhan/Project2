@@ -1,8 +1,8 @@
 .logo-img {
     width: 150px;
 }
-#nav-text{
-    font-size: 20px;
+#toggle{
+ color: rgb(255, 247, 247);
 }
 .navbar {
     background-color: #1F2235;
